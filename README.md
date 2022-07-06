@@ -4,10 +4,11 @@ About Our Project
 
 Yang perlu dijelaskan untuk HARI INI (per 8 Juni 2022):
 
-Pembagian Halaman untuk masing-masing orang (Halaman LOGIN dan LOGOUT tidak termasuk hitungan ya)
-Apa yang digunakan di masing-masing HALAMAN(co: Halaman A : membutuhkan koneksi DB, dan notif, Halaman B : membutuhkan delay alarm) 3, Cara kerja kelompok
-Link GITHUB untuk hasil pekerjaan
-Progress kerja setiap personil
+1. Pembagian Halaman untuk masing-masing orang (Halaman LOGIN dan LOGOUT tidak termasuk hitungan ya)
+2. Apa yang digunakan di masing-masing HALAMAN(co: Halaman A : membutuhkan koneksi DB, dan notif, Halaman B : membutuhkan delay alarm) 
+3. Cara kerja kelompok
+4. Link GITHUB untuk hasil pekerjaan
+5. Progress kerja setiap personil
 
 A. Pembagian tugas yang harus dikerjakan:
    Launching Screen = Davin
